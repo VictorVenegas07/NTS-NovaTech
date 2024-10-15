@@ -8,3 +8,6 @@ El problema radica en la necesidad de un sistema que no solo permita registrar l
 Además, este sistema debe ser extensible para adaptarse a futuros cambios, como la incorporación de nuevos dispositivos, ya sean de las mismas marcas o de otras, sin necesidad de realizar cambios estructurales significativos en el diseño actual. De este modo, NovaTech puede garantizar que, a medida que el número y la variedad de dispositivos crezcan, la solución siga siendo escalable, eficiente y mantenible.
 
 Por tanto, la problemática central se enfoca en cómo implementar una solución tecnológica que pueda registrar y gestionar tanto los dispositivos actuales como futuros, tomando en cuenta las diferencias entre marcas y la necesidad de configuraciones específicas, al mismo tiempo que se asegura una facilidad de mantenimiento y una escalabilidad que permita su crecimiento sin comprometer la funcionalidad o la simplicidad del sistema.
+
+
+![NovaTech](https://github.com/user-attachments/assets/c399b03d-f6a7-42a8-9f27-237bd86aada3)
